@@ -13,7 +13,7 @@ export default function About() {
           <p> I am not your normal developer</p>
           <p className="py-2 text-gray-700 text-justify">
             I specialize in building mobile responsive front-end UI applications
-            that connect with API’s and other backend technologies. I’m
+            that connect with APIs and other backend technologies. I am
             passionate about learning new technologies and understand there is
             more than one way to accomplish a task. Though I am most proficient
             in building front-end applications using HTML, CSS, Javascript, and
