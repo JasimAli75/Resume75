@@ -20,20 +20,20 @@ export default function Main() {
             />
           </div>
           <p className="uppercase text-sm tracking-tighter text-gray-600 mt-10">
-            Let's build something together
+            Lets build something together
           </p>
           <h1 className="py-4 font-semibold text-3xl text-gray-700">
-            Hi, I'm <span className="text-[#5651e5]"> Jasim Ali Rajput </span>
+            Hi, I am <span className="text-[#5651e5]"> Jasim Ali Rajput </span>
           </h1>
           <h1 className="py-1 font-medium text-3xl text-gray-700">
             A MERN-Stack Web Developer
           </h1>
           <p className="py-4 text-sm text-gray-600 max-w-[70%] m-auto">
-            Jasim Ali is a MERN-Stack web application developer specializy in
+            Jasim Ali is a MERN-Stack web application developer specialize in
             Next.js, React.js Tailwind, ChakaraUI, Javascript with Back-end
-            factionality. I'm a MERN-Stack web Application Developer
-            specializing in building (and occasionaly designing) exceptional
-            digital experiences. Currently I'm focused on building responsive
+            factionality. I am a MERN-Stack web Application Developer
+            specializing in building (and occasionally designing) exceptional
+            digital experiences. Currently I am focused on building responsive
             front-end web applications while learning bac-end technologies.
           </p>
           <div className="flex items-center justify-between max-w-[330px] m-auto py-4">
