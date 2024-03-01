@@ -33,7 +33,7 @@ export default function About() {
         <div className="w-full h-auto m-auto py-12 shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 eas-in duration-300">
           <Image
             className="rounded-xl"
-            src="/../public/Images/cdd.webp"
+            src="https://drive.google.com/uc?export=download&id=1d4dw-GJK9tNsnxpdjir5dwxW5C0cRs-v"
             width={200}
             height={300}
             alt="project logo"
