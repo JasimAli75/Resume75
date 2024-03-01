@@ -41,7 +41,7 @@ export default function NevBar() {
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <Link href={"/"}>
           <Image
-            src="/../public/Images/ccc.png"
+            src="https://drive.google.com/uc?export=download&id=1q19eIrOOseQdWjGrpyPz-cFhdjwcjKP7"
             alt="portfolio logo"
             width="100"
             height="20"
