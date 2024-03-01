@@ -16,7 +16,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/NT.png"
+                  src="https://drive.google.com/uc?export=download&id=1Ozvwz8FfyD-50z9WVO7abRRYGq4gfdzI"
                   width={100}
                   height={100}
                   alt="Nextjs logo"
@@ -31,7 +31,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/RT.webp"
+                  src="https://drive.google.com/uc?export=download&id=1o89wNA5LiHKbXzNkhChmi6SR_ErYflrl"
                   width={110}
                   height={110}
                   alt="Reactjs logo"
@@ -46,7 +46,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/TS.png"
+                  src="https://drive.google.com/uc?export=download&id=11hRL3nI8afM3JtZkBbu8DPbM1cADApnO"
                   width={90}
                   height={90}
                   alt="TypeScript logo"
@@ -61,7 +61,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/html.png"
+                  src="https://drive.google.com/uc?export=download&id=1GtujsiGoEBEks_Pva39TRk5_F-9Pg2II"
                   width={100}
                   height={100}
                   alt="html logo"
@@ -76,7 +76,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/tail.png"
+                  src="https://drive.google.com/uc?export=download&id=13ehyHaxu6SJaIaY6_PuQt-I4bTqClsG5"
                   width={100}
                   height={100}
                   alt="Tailwind logo"
@@ -92,7 +92,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/JS.png"
+                  src="https://drive.google.com/uc?export=download&id=1kMpeF3UXpfNHe7twwEn7Z91MqQfcM36u"
                   width={70}
                   height={70}
                   alt="JavaScript logo"
