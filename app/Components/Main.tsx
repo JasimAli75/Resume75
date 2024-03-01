@@ -4,16 +4,24 @@ import { GrLinkedinOption } from "react-icons/gr";
 import { AiFillGithub, AiOutlineMail } from "react-icons/ai";
 import { BsWhatsapp } from "react-icons/bs";
 import Link from "next/link";
-
 export default function Main() {
   return (
     <div id="home" className=" w-full h-screen text-center">
       <div className="max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center">
         <div>
           <div className="flex justify-center ">
-            <Image
+            {/* <Image
               className="rounded-full rounded-tx-md cursor-pointer hover:scale-110 ease-in duration-300"
               src={"/../public/Images/JJ.jpg"}
+              width={220}
+              height={220}
+              alt="Portfolio pic"
+            /> */}
+            <Image
+              className="rounded-full rounded-tx-md cursor-pointer hover:scale-110 ease-in duration-300"
+              src={
+                "https://drive.google.com/uc?export=download&id=1IrykqQA8doHPZKOlaSTbyMdTRN8wOTgj"
+              }
               width={220}
               height={220}
               alt="Portfolio pic"
