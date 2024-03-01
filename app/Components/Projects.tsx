@@ -3,6 +3,7 @@ import React from "react";
 import Link from "next/link";
 import Projectsitem1 from "./Projectsitem1";
 import Projectitem2 from "./Projectitem2";
+import Projectitem3 from "./Projectitem3";
 
 export default function Projects() {
   return (
@@ -15,6 +16,7 @@ export default function Projects() {
         <div className="grid md:grid-cols-2 gap-8">
           <Projectsitem1 />
           <Projectitem2 />
+          <Projectitem3 />
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
-import React from 'react'
-import Image from 'next/image'
-import Link from 'next/link'
+import React from "react";
+import Image from "next/image";
+import Link from "next/link";
 
 export default function Projectitem2() {
   return (
@@ -8,14 +8,14 @@ export default function Projectitem2() {
       <div className="relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]">
         <Image
           className="rounded-xl group-hover:opacity-20"
-          src={"/../public/Images/Projects/PC.png"}
+          src={"/../public/Images/Projects/P2.png"}
           alt="Projects logo"
           width={437}
           height={437}
         />
         <div className="hidden group-hover:block absolute top-[50%] left-[50%] translate-x-[-50%] translate-y-[-50%]">
           <h3 className="text-[20px] text-white tracking-tighter text-center font-bold">
-            Pricing Website
+            PIAIC DAO Website
           </h3>
           <p className="pb-4 pt-2 text-white text-center font-semibold">
             Next.js & Chakra-UI
@@ -29,5 +29,5 @@ export default function Projectitem2() {
         </div>
       </div>
     </div>
-  )
+  );
 }
