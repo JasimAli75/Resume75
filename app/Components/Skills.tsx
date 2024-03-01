@@ -107,7 +107,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/ND.png"
+                  src="https://drive.google.com/uc?export=download&id=1PnXKim5rTdR2owV3dlN1XWUEPo9THcIA"
                   width={130}
                   height={130}
                   alt=" Nodejs logo"
@@ -122,7 +122,7 @@ export default function Skills() {
             <div className="grid grid-cols-2 gap-4 justify-center items-center">
               <div className="m-auto">
                 <Image
-                  src="/../public/Images/PS.png"
+                  src="https://drive.google.com/uc?export=download&id=1jV92196jCkH6CGT7CGHACEn51ACASJOi"
                   width={100}
                   height={100}
                   alt="Postman logo"
