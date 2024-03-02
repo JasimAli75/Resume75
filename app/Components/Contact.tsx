@@ -21,7 +21,7 @@ export default function Contact() {
               <div>
                 <Image
                   className="rounded-xl hover:scale-105 ease-in duration-300"
-                  src="/../public/images/GI.jpg"
+                  src="https://drive.google.com/uc?export=download&id=1AEDkMVOE_O7lYU6ReWNlAJIV6O8GmWpP"
                   alt="get in touch logo"
                   width={450}
                   height={450}
@@ -44,7 +44,7 @@ export default function Contact() {
                     <Link
                       target="_blank"
                       href={
-                        "https://www.linkedin.com/in/jasim-amanat-a24a861b2/"
+                        "https://www.linkedin.com/in/jasim-ali-rajput-a24a861b2/"
                       }
                     >
                       <GrLinkedinOption />
