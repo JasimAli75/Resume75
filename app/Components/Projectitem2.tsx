@@ -22,7 +22,10 @@ export default function Projectitem2() {
           <p className="pb-4 pt-2 text-white text-center font-semibold">
             Next.js & Chakra-UI
           </p>
-          <Link href="/">
+          <Link
+            target="_blank"
+            href={"https://github.com/JasimAli75/PIAIC-Web"}
+          >
             s
             <p className="text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-[18px] cursor-pointer">
               More Info

@@ -22,7 +22,10 @@ export default function Projectsitems() {
           <p className="pb-4 pt-2 text-white text-center font-semibold">
             Next.js & Reactjs, Shandcn UI,
           </p>
-          <Link target="_blank" href={"https://timetrove.vercel.app/"}>
+          <Link
+            target="_blank"
+            href={"https://github.com/JasimAli75/pricing-app-web"}
+          >
             <p className="text-center py-3 rounded-lg bg-white text-gray-700 font-bold text-[18px] cursor-pointer">
               More Info
             </p>
