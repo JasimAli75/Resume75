@@ -8,7 +8,9 @@ export default function Projectitem2() {
       <div className="relative flex items-center justify-center h-auto w-full shadow-xl shadow-gray-400 rounded-xl p-4 group hover:bg-gradient-to-r from-[#5651e5] to-[#709dff]">
         <Image
           className="rounded-xl group-hover:opacity-20"
-          src={"/../public/Images/Projects/P2.png"}
+          src={
+            "https://drive.google.com/uc?export=download&id=1A7WafC8oAK7Td1yFADplr3RKnVF5xiuz"
+          }
           alt="Projects logo"
           width={437}
           height={437}
